@@ -1,4 +1,3 @@
-//import { DragDropContext } from "react-beautiful-dnd";
 import React from "react";
 import { DragDropContext, Droppable, Draggable } from 'react-beautiful-dnd';
 import './App.css';
