@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+.optionList {
+  margin: 16px;
+  width: 400px;
+}
+
+.option {
+  padding: 8px 16px;
+  background: #eee;
+  border-bottom: 1px solid #fff
+}
